@@ -1,0 +1,15 @@
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/bin/Debug/net7.0/Link Components
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/bin/Debug/net7.0/Link Components.deps.json
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/bin/Debug/net7.0/Link Components.runtimeconfig.json
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/bin/Debug/net7.0/Link Components.dll
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/bin/Debug/net7.0/Link Components.pdb
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.csproj.AssemblyReference.cache
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.AssemblyInfoInputs.cache
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.AssemblyInfo.cs
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.csproj.CoreCompileInputs.cache
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.dll
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/refint/Link Components.dll
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.pdb
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/Link Components.genruntimeconfig.cache
+/Users/zaharlitvincuk/Desktop/Study/Графы/Link Components/obj/Debug/net7.0/ref/Link Components.dll
